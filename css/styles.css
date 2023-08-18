@@ -457,7 +457,7 @@ body {
   backdrop-filter: blur(5px);
   background: var(--white-text-color);
 
-  padding: 40px 13px;
+  padding: 40px 30px;
   margin-bottom: 60px;
 }
 
@@ -479,6 +479,8 @@ body {
   font-style: normal;
   font-weight: 500;
   line-height: 110%; /* 52.8px */
+
+  filter: blur(2px);
 }
 
 .wrapper-causes-title {
@@ -648,6 +650,10 @@ body {
 
   margin-top: 0;
   margin-bottom: 20px;
+}
+
+.bonus-text-two span {
+  font-weight: 500;
 }
 
 .bonus-image {
@@ -828,6 +834,10 @@ body {
 
 .cost-text-two .accent {
   color: var(--accent-text-color);
+}
+
+.cost-text-two span {
+  font-weight: 600;
 }
 
 .cost-text-three {
@@ -1045,9 +1055,18 @@ body {
   margin-bottom: 0;
 }
 
-.wish-text .accent {
+.section-wish .weight {
+  text-align: center;
+  font-family: Jost;
+  font-size: 16px;
+  font-style: normal;
   font-weight: 600;
+  line-height: 110%; /* 17.6px */
+
   color: var(--accent-text-color);
+
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .section-wish .marg-bottom {
@@ -1086,6 +1105,8 @@ body {
   padding: 28px 0;
   height: 310px;
   position: relative;
+
+  background-image: linear-gradient(to top, #0d0d0d, #0d0d0d04);
 }
 
 .footer-text {
