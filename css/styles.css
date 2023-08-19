@@ -548,12 +548,12 @@ body {
 .mission-button::after {
   position: absolute;
   content: '';
-  border: 3px solid #ffffff;
+  border: 2px solid #ffffff;
   left: -50px;
   right: -50px;
   top: -15px;
   bottom: -15px;
-  animation: pulse 2s linear infinite;
+  animation: pulse 1.3s linear infinite;
   opacity: 0;
 
   border-radius: 60px;
@@ -1061,6 +1061,12 @@ body {
 .section-bonus .image-title {
   width: 100%;
   margin-bottom: 28px;
+}
+
+@media screen and (max-width: 767px) {
+  .causes-list {
+    padding: 0;
+  }
 }
 
 @media screen and (min-width: 768px) {
@@ -1758,7 +1764,7 @@ body {
   right: -50px;
   top: -15px;
   bottom: -15px;
-  animation: pulse 2s linear infinite;
+  animation: pulse 1.3s linear infinite;
   opacity: 0;
 
   border-radius: 60px;
