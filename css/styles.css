@@ -55,13 +55,13 @@ body {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1280px) {
   body {
     background-image: url(../images/background/full-background-desktop-1440-1x.jpg);
   }
 
   .container {
-    max-width: 1440px;
+    max-width: 1280px;
     padding-left: 180px;
     padding-right: 180px;
   }
@@ -181,7 +181,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1280px) {
   .section-header {
     position: relative;
   }
@@ -328,7 +328,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1280px) {
   .section-consultation {
     padding-top: 260px;
     padding-bottom: 80px;
@@ -650,7 +650,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1280px) {
   .section-mission {
     padding-bottom: 190px;
   }
@@ -1138,7 +1138,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1280px) {
   .section-causes {
     padding-bottom: 160px;
   }
@@ -1350,7 +1350,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1280px) {
   .section-bonus .image-title {
     width: 806px;
   }
@@ -1525,7 +1525,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1280px) {
   .section-process {
     padding-bottom: 130px;
   }
@@ -1848,7 +1848,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1280px) {
   .section-cost {
     padding-bottom: 160px;
   }
@@ -2042,7 +2042,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1280px) {
   .section-questions .image-title {
     width: 980px;
   }
@@ -2147,7 +2147,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1280px) {
   .wish-text {
     font-size: 24px;
     max-width: 836px;
@@ -2296,7 +2296,7 @@ body {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1280px) {
   .footer .container {
     max-width: 100%;
     padding: 60px 120px;
