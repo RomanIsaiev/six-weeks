@@ -1761,7 +1761,7 @@ body {
 .cost-button::after {
   position: absolute;
   content: '';
-  border: 3px solid #bf7e59;
+  border: 2px solid #bf7e59;
   left: -50px;
   right: -50px;
   top: -15px;
